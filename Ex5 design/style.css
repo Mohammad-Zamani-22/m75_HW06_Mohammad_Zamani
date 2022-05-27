@@ -1,0 +1,76 @@
+.picheader{
+    background-color: yellow;
+    background-image: url(./3333.jpg);
+    background-repeat: repeat ;
+    margin: 1px;
+    padding: 90px;
+    color: white;
+    font-size: 45px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-position: center;
+
+}
+
+#textheader{
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding-top: 80px;
+}
+
+#back{
+    background-color: rgb(132, 132, 141);
+}
+
+#username{
+    background-color: rgb(191, 191, 191);
+    padding: 40px;
+    scroll-margin-top: 70px;
+    border-radius: 20px;
+    margin-right: 340px;
+    margin-left: 340px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#password{
+    
+    background-color: rgb(164, 164, 162);
+    padding: 40px;
+    border-radius: 20px;
+    position:static;
+    right: 350px;
+    left: 350px;
+    position: absolute;
+  
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+#input1{
+    border-radius: 40px;
+}
+
+#input2{
+    border-radius: 40px;
+}
+
+.button{
+    padding: 20px;
+    
+    padding-inline: 40px;
+    border-radius: 30px;
+    position: absolute;
+  left: 500px;
+  top: 635px;
+  border: 1px solid blue;
+  
+}
+
+#check{
+    position: absolute;
+  left: 355px;
+  top: 635px;
+  
+}
